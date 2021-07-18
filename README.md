@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/perfettiful/perfettiful/blob/main/github-banner.png?raw=true" alt="banner that says Nathan Perfetti - software developer and educator">
+
+### < / Hello World! {🌎} >
 
 <!--
 **perfettiful/perfettiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
