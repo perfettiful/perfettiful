@@ -38,8 +38,8 @@
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left" >Languages and Tools:</h3>
+<p align="left" style="text-shadow: 2px 2px 2px white;">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
