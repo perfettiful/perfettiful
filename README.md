@@ -5,7 +5,7 @@
 
 <h1 align="center">< / Hello World! {🌎} > I'm Nathan!</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">Technologist & Educator from St. Paul, Minnesota 🤓</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=perfettiful alt=perfettiful/> </p>
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/ucantech?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -62,4 +62,4 @@
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true alt="perfettiful" /> </p>
-{"mode":"full","isActive":false}
+
