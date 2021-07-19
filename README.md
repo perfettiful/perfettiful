@@ -19,7 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [nathanperfetti.dev](https://nathanperfetti.dev)
 
-- ⚡ Fun fact ** My garden is filled with tomatoes 🍅🍅🍅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style='backgroud-color:white'>
