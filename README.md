@@ -22,7 +22,7 @@
 - ⚡ Fun fact ** My garden is filled with tomatoes 🍅🍅🍅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style='backgroud-color:white'>
 <a href="https://codepen.io/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="perfettiful" height="30" width="40" /></a>
 <a href="https://dev.to/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perfettiful" height="30" width="40" /></a>
 <a href="https://twitter.com/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
