@@ -31,10 +31,10 @@
 
 **📕 Latest dev.to posts [@perfettiful](https://dev.to/perfettiful)**
 <!-- BLOG-POST-LIST:START -->
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-- [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
+- [Awesome FrontendMasters course resources]()
+- [How to start and promote your open-source project?]()
+- [How to gain 1000+ stars on an open-source project quickly?]()
+- [Github profile README generator with addons like visitors-count, github-stats etc]()
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left" >Languages and Tools:</h3>
