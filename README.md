@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [ResuMason 🛠](https://github.com/resumason)
 
-- 💬 Ask me about **React JS**, Next JS** and **shopify**
+- 💬 Ask me about **React JS**, **Next JS and **Shopify**
 
 - 📫 Reach me at **nathanperfetti@gmail.com**
 
