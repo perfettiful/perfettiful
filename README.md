@@ -24,9 +24,9 @@
 <p align="left" style='backgroud-color:white'>
 <a href="https://codepen.io/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="perfettiful" height="30" width="40" /></a>
 <a href="https://dev.to/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perfettiful" height="30" width="40" /></a>
-<a href="https://twitter.com/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nperfetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://twitter.com/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="perfettiful" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nperfetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfettiful" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfettiful" height="30" width="40" /></a>
 </p>
 
 **📕 Latest dev.to posts [@perfettiful](https://dev.to/perfettiful)**
@@ -59,6 +59,6 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
-<span align="left"> <img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact' alt="perfettiful" /> </span>
-<span align="right"> <img height='200px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true' alt="perfettiful" /> </span>
+<span align="left"> <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact' alt="perfettiful" /> </span>
+<span align="right"> <img height='180px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true' alt="perfettiful" /> </span>
 
