@@ -59,6 +59,6 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
-<span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact' alt="perfettiful" /> </span>
-<span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true' alt="perfettiful" /> </span>
+<span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact&theme=react ' alt="perfettiful" /> </span>
+<span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true&theme=react ' alt="perfettiful" /> </span>
 
