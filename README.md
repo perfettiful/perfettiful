@@ -30,12 +30,12 @@
 </p>
 
 **📕 Latest dev.to posts [@perfettiful](https://dev.to/perfettiful)**
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Awesome FrontendMasters course resources]()
 - [How to start and promote your open-source project?]()
 - [How to gain 1000+ stars on an open-source project quickly?]()
 - [Github profile README generator with addons like visitors-count, github-stats etc]()
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END 
 
 <h3 align="left" >Languages and Tools:</h3>
 <p align="left" style="text-shadow: 2px 2px 2px white;">
@@ -58,6 +58,36 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
+-->
+## 🛠 Tech Toolbox   
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Express.js-4A4A55?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/firebase-F7C52C?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+![](https://img.shields.io/badge/MapBox-39ABC9?style=for-the-badge&logo=Mapbox&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact&theme=react ' alt="perfettiful" /> </span>
 <span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true&theme=react ' alt="perfettiful" /> </span>
