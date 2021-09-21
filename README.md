@@ -3,15 +3,15 @@
 
 ### 
 
-<h1 align="center">< / Hello World! {🌎} > I'm Nathan!</h1>
+<h1 align="center">< Hello {🌎} > I'm Nathan!</h1>
 
-<h4 align="center">Technologist & Educator from St. Paul, Minnesota 🤓</h4>
+<h4 align="center">Developer & Educator from St. Paul, Minnesota 🤓</h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=perfettiful alt=perfettiful/> </p>
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/ucantech?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  -->
  
-- 🔭 I’m currently working on [ResuMason 🛠](https://github.com/resumason)
+<!-- - 🔭 I’m currently working on [ResuMason 🛠](https://github.com/resumason) -->
 
 - 💬 Ask me about **React JS**, **Next JS** and **Shopify**
 
@@ -86,5 +86,5 @@
 <a href="https://dev.to/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perfettiful" height="30" width="40" /></a>
 <a href="https://twitter.com/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="perfettiful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nperfetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfettiful" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfettiful" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfettiful" height="30" width="40" /></a> -->
 </p>
