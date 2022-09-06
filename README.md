@@ -77,14 +77,4 @@
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact&theme=react ' alt="perfettiful" /> </span>
-<span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true&theme=react ' alt="perfettiful" /> </span>
-
- <h2 align="left">📲 Connect with Me:</h2>
-<p align="left" style='backgroud-color:white'>
-<a href="https://codepen.io/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="perfettiful" height="30" width="40" /></a>
-<a href="https://dev.to/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perfettiful" height="30" width="40" /></a>
-<a href="https://twitter.com/perfettiful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="perfettiful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nperfetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfettiful" height="30" width="40" /></a>
-<!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perfettiful" height="30" width="40" /></a> -->
 </p>
