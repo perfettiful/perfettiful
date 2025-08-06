@@ -3,9 +3,7 @@
 
 ### 
 
-<h1 align="center">< Hello {🌎} > I'm Nathan!</h1>
-
-<h4 align="center">Developer & Educator from St. Paul, Minnesota 🤓</h4>
+<h4 align="center">Software Engineer from St. Paul, Minnesota 🤓</h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=perfettiful alt=perfettiful/> </p>
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/ucantech?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -13,11 +11,9 @@
  
 <!-- - 🔭 I’m currently working on [ResuMason 🛠](https://github.com/resumason) -->
 
-- 💬 Ask me about **Next JS**, **React Native**, and **Laravel**
-
 - 📫 Reach me at **nathanperfetti@gmail.com**
 
-- 👨‍💻 All of my projects are available at [nathanperfetti.dev](https://nathanperfetti.dev)
+- 👨‍💻 Checkout my personal site at [nathanperfetti.dev](https://nathanperfetti.dev)
 
 <!-- **📕 Latest dev.to posts [@perfettiful](https://dev.to/perfettiful)** -->
 <!-- BLOG-POST-LIST:START 
